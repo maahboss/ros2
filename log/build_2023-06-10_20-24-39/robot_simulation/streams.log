@@ -1,0 +1,148 @@
+[0.009s] Invoking command in '/home/pan/Documents/Freelance/work01_ws/build/robot_simulation': CMAKE_PREFIX_PATH=/home/pan/Documents/Freelance/work01_ws/install/robot_description:/home/pan/Documents/Freelance/work01_ws/install/robot_slam:/home/pan/Documents/Freelance/work01_ws/install/robot_simulation:/opt/ros/humble /usr/bin/cmake /home/pan/Documents/Freelance/work01_ws/src/robot_simulation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pan/Documents/Freelance/work01_ws/install/robot_simulation
+[0.058s] -- The C compiler identification is GNU 11.3.0
+[0.106s] -- The CXX compiler identification is GNU 11.3.0
+[0.112s] -- Detecting C compiler ABI info
+[0.173s] -- Detecting C compiler ABI info - done
+[0.180s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.180s] -- Detecting C compile features
+[0.180s] -- Detecting C compile features - done
+[0.183s] -- Detecting CXX compiler ABI info
+[0.262s] -- Detecting CXX compiler ABI info - done
+[0.268s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.269s] -- Detecting CXX compile features
+[0.269s] -- Detecting CXX compile features - done
+[0.271s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.409s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.461s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.486s] -- Found rclcpp: 16.0.3 (/opt/ros/humble/share/rclcpp/cmake)
+[0.522s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.526s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.534s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.546s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.563s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.624s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.626s] -- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.722s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.746s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.789s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.797s] -- Looking for pthread.h
+[0.863s] -- Looking for pthread.h - found
+[0.863s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.927s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.928s] -- Found Threads: TRUE  
+[1.069s] -- Found rclpy: 3.3.7 (/opt/ros/humble/share/rclpy/cmake)
+[1.069s] -- Found robot_description: 0.0.0 (/home/pan/Documents/Freelance/work01_ws/install/robot_description/share/robot_description/cmake)
+[1.070s] -- Found gazebo_ros_pkgs: 3.7.0 (/opt/ros/humble/share/gazebo_ros_pkgs/cmake)
+[1.071s] -- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+[1.195s] -- Found gazebo_ros: 3.7.0 (/opt/ros/humble/share/gazebo_ros/cmake)
+[1.207s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.2") 
+[1.209s] -- Checking for module 'bullet>=2.82'
+[1.223s] --   Found bullet, version 3.05
+[1.343s] -- Found fcl: /usr/include (found suitable version "0.7.0", minimum required is "0.5.0") 
+[1.403s] -- Found assimp: /usr/include (found version "5.2.0") 
+[1.420s] -- Found DART: /usr/include (Required is at least version "6.6") found components: dart 
+[1.447s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found suitable version "1.74.0", minimum required is "1.40.0") found components: thread system filesystem program_options regex iostreams date_time 
+[1.461s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found version "3.12.4") 
+[1.465s] -- Looking for ignition-math6 -- found version 6.12.0
+[1.472s] -- Searching for dependencies of ignition-math6
+[1.474s] -- Looking for OGRE...
+[1.475s] -- OGRE_PREFIX_WATCH changed.
+[1.481s] -- Checking for module 'OGRE'
+[1.495s] --   Found OGRE, version 1.9.0
+[1.536s] -- Found Ogre Ghadamon (1.9.0)
+[1.541s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[1.549s] -- Looking for OGRE_Paging...
+[1.554s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[1.554s] -- Looking for OGRE_Terrain...
+[1.558s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[1.558s] -- Looking for OGRE_Property...
+[1.562s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[1.562s] -- Looking for OGRE_RTShaderSystem...
+[1.566s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[1.567s] -- Looking for OGRE_Volume...
+[1.571s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[1.571s] -- Looking for OGRE_Overlay...
+[1.574s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[1.654s] -- Looking for ignition-math6 -- found version 6.12.0
+[1.667s] -- Looking for ignition-transport8 -- found version 8.2.1
+[1.668s] -- Searching for dependencies of ignition-transport8
+[1.684s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found suitable version "3.12.4", minimum required is "3") 
+[1.693s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[1.699s] -- Checking for module 'libzmq >= 4'
+[1.715s] --   Found libzmq , version 4.3.4
+[1.757s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[1.763s] -- Checking for module 'uuid'
+[1.779s] --   Found uuid, version 2.37.2
+[1.817s] -- Found UUID: TRUE  
+[1.819s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[1.819s] -- Searching for dependencies of ignition-msgs5
+[1.837s] -- Looking for ignition-math6 -- found version 6.12.0
+[1.842s] -- Checking for module 'tinyxml2'
+[1.859s] --   Found tinyxml2, version 9.0.0
+[1.901s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[1.903s] -- Looking for ignition-common3 -- found version 3.14.0
+[1.903s] -- Searching for dependencies of ignition-common3
+[1.904s] -- Looking for dlfcn.h - found
+[1.905s] -- Looking for libdl - found
+[1.906s] -- Found DL: TRUE  
+[1.918s] -- Found tinyobjloader: /usr/lib/x86_64-linux-gnu/cmake/tinyobjloader/tinyobjloader-config.cmake (found version "2.0.0") 
+[1.919s] -- Searching for <ignition-common3> component [graphics]
+[1.921s] -- Looking for ignition-common3-graphics -- found version 3.14.0
+[1.921s] -- Searching for dependencies of ignition-common3-graphics
+[1.921s] -- Looking for ignition-math6 -- found version 6.12.0
+[1.925s] -- Looking for ignition-fuel_tools4 -- found version 4.4.0
+[1.925s] -- Searching for dependencies of ignition-fuel_tools4
+[2.014s] -- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.81.0")  
+[2.023s] -- Checking for module 'jsoncpp'
+[2.038s] --   Found jsoncpp, version 1.9.5
+[2.078s] -- Found JSONCPP: TRUE  
+[2.084s] -- Checking for module 'libzip'
+[2.099s] --   Found libzip, version 1.7.3
+[2.143s] -- Found ZIP: TRUE  
+[2.143s] -- Looking for ignition-common3 -- found version 3.14.0
+[2.143s] -- Looking for ignition-math6 -- found version 6.12.0
+[2.143s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[2.147s] -- Gazebo version: 11.10
+[2.147s] -- Checking for module 'tbb'
+[2.164s] --   Found tbb, version 2021.5.0
+[2.211s] -- Found ament_lint_auto: 0.12.5 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.280s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.280s] -- Added test 'lint_cmake' to check CMake code style
+[2.280s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.282s] -- Added test 'xmllint' to check XML markup files
+[2.283s] -- Configuring done
+[2.288s] -- Generating done
+[2.290s] -- Build files have been written to: /home/pan/Documents/Freelance/work01_ws/build/robot_simulation
+[2.305s] Invoked command in '/home/pan/Documents/Freelance/work01_ws/build/robot_simulation' returned '0': CMAKE_PREFIX_PATH=/home/pan/Documents/Freelance/work01_ws/install/robot_description:/home/pan/Documents/Freelance/work01_ws/install/robot_slam:/home/pan/Documents/Freelance/work01_ws/install/robot_simulation:/opt/ros/humble /usr/bin/cmake /home/pan/Documents/Freelance/work01_ws/src/robot_simulation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pan/Documents/Freelance/work01_ws/install/robot_simulation
+[2.308s] Invoking command in '/home/pan/Documents/Freelance/work01_ws/build/robot_simulation': CMAKE_PREFIX_PATH=/home/pan/Documents/Freelance/work01_ws/install/robot_description:/home/pan/Documents/Freelance/work01_ws/install/robot_slam:/home/pan/Documents/Freelance/work01_ws/install/robot_simulation:/opt/ros/humble /usr/bin/cmake --build /home/pan/Documents/Freelance/work01_ws/build/robot_simulation -- -j12 -l12
+[2.347s] Invoked command in '/home/pan/Documents/Freelance/work01_ws/build/robot_simulation' returned '0': CMAKE_PREFIX_PATH=/home/pan/Documents/Freelance/work01_ws/install/robot_description:/home/pan/Documents/Freelance/work01_ws/install/robot_slam:/home/pan/Documents/Freelance/work01_ws/install/robot_simulation:/opt/ros/humble /usr/bin/cmake --build /home/pan/Documents/Freelance/work01_ws/build/robot_simulation -- -j12 -l12
+[2.368s] Invoking command in '/home/pan/Documents/Freelance/work01_ws/build/robot_simulation': CMAKE_PREFIX_PATH=/home/pan/Documents/Freelance/work01_ws/install/robot_description:/home/pan/Documents/Freelance/work01_ws/install/robot_slam:/home/pan/Documents/Freelance/work01_ws/install/robot_simulation:/opt/ros/humble /usr/bin/cmake --install /home/pan/Documents/Freelance/work01_ws/build/robot_simulation
+[2.374s] -- Install configuration: ""
+[2.375s] -- Execute custom install script
+[2.375s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/config/ekf.yaml
+[2.382s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/config/nav2_params.yaml
+[2.390s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/launch/robot_state_publisher.launch.py
+[2.398s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/launch/simulation.launch.py
+[2.406s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/rviz/urdf_config.rviz
+[2.413s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/worlds/house.world
+[2.421s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/model/collapsed_house/materials/textures/collapsed_house_diffuse.jpg
+[2.429s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/model/collapsed_house/materials/textures/collapsed_house_spec.jpg
+[2.437s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/model/collapsed_house/meshes/collapsed_house.dae
+[2.444s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/model/collapsed_house/model.config
+[2.451s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/model/collapsed_house/model.sdf
+[2.458s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/ament_index/resource_index/package_run_dependencies/robot_simulation
+[2.466s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/ament_index/resource_index/parent_prefix_path/robot_simulation
+[2.474s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/environment/ament_prefix_path.sh
+[2.482s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/environment/ament_prefix_path.dsv
+[2.491s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/environment/path.sh
+[2.499s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/environment/path.dsv
+[2.507s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/local_setup.bash
+[2.515s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/local_setup.sh
+[2.523s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/local_setup.zsh
+[2.531s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/local_setup.dsv
+[2.538s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/package.dsv
+[2.547s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/ament_index/resource_index/packages/robot_simulation
+[2.554s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/cmake/robot_simulationConfig.cmake
+[2.562s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/cmake/robot_simulationConfig-version.cmake
+[2.570s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/package.xml
+[2.578s] Invoked command in '/home/pan/Documents/Freelance/work01_ws/build/robot_simulation' returned '0': CMAKE_PREFIX_PATH=/home/pan/Documents/Freelance/work01_ws/install/robot_description:/home/pan/Documents/Freelance/work01_ws/install/robot_slam:/home/pan/Documents/Freelance/work01_ws/install/robot_simulation:/opt/ros/humble /usr/bin/cmake --install /home/pan/Documents/Freelance/work01_ws/build/robot_simulation

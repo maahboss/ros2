@@ -1,0 +1,32 @@
+[0.139s] Invoking command in '/home/pan/Documents/Freelance/work01_ws/build/robot_simulation': AMENT_PREFIX_PATH=/home/pan/Documents/Freelance/work01_ws/install/robot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pan/Documents/Freelance/work01_ws/install/robot_description:/opt/ros/humble /usr/bin/cmake --build /home/pan/Documents/Freelance/work01_ws/build/robot_simulation -- -j12 -l12
+[0.343s] Invoked command in '/home/pan/Documents/Freelance/work01_ws/build/robot_simulation' returned '0': AMENT_PREFIX_PATH=/home/pan/Documents/Freelance/work01_ws/install/robot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pan/Documents/Freelance/work01_ws/install/robot_description:/opt/ros/humble /usr/bin/cmake --build /home/pan/Documents/Freelance/work01_ws/build/robot_simulation -- -j12 -l12
+[0.459s] Invoking command in '/home/pan/Documents/Freelance/work01_ws/build/robot_simulation': AMENT_PREFIX_PATH=/home/pan/Documents/Freelance/work01_ws/install/robot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pan/Documents/Freelance/work01_ws/install/robot_description:/opt/ros/humble /usr/bin/cmake --install /home/pan/Documents/Freelance/work01_ws/build/robot_simulation
+[0.491s] -- Install configuration: ""
+[0.497s] -- Execute custom install script
+[0.497s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/config/ekf.yaml
+[0.497s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/config/nav2_params.yaml
+[0.500s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/launch/robot_state_publisher.launch.py
+[0.503s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/launch/simulation.launch.py
+[0.504s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/rviz/urdf_config.rviz
+[0.504s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/worlds/house.world
+[0.505s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/model/collapsed_house/materials/textures/collapsed_house_diffuse.jpg
+[0.505s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/model/collapsed_house/materials/textures/collapsed_house_spec.jpg
+[0.505s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/model/collapsed_house/meshes/collapsed_house.dae
+[0.505s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/model/collapsed_house/model.config
+[0.505s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/model/collapsed_house/model.sdf
+[0.506s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/ament_index/resource_index/package_run_dependencies/robot_simulation
+[0.506s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/ament_index/resource_index/parent_prefix_path/robot_simulation
+[0.506s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/environment/ament_prefix_path.sh
+[0.506s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/environment/ament_prefix_path.dsv
+[0.506s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/environment/path.sh
+[0.506s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/environment/path.dsv
+[0.507s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/local_setup.bash
+[0.507s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/local_setup.sh
+[0.507s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/local_setup.zsh
+[0.507s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/local_setup.dsv
+[0.507s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/package.dsv
+[0.536s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/ament_index/resource_index/packages/robot_simulation
+[0.537s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/cmake/robot_simulationConfig.cmake
+[0.540s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/cmake/robot_simulationConfig-version.cmake
+[0.545s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_simulation/share/robot_simulation/package.xml
+[0.546s] Invoked command in '/home/pan/Documents/Freelance/work01_ws/build/robot_simulation' returned '0': AMENT_PREFIX_PATH=/home/pan/Documents/Freelance/work01_ws/install/robot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pan/Documents/Freelance/work01_ws/install/robot_description:/opt/ros/humble /usr/bin/cmake --install /home/pan/Documents/Freelance/work01_ws/build/robot_simulation

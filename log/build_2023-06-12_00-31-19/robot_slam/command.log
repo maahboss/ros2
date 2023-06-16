@@ -1,0 +1,4 @@
+Invoking command in '/home/pan/Documents/Freelance/work01_ws/build/robot_slam': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/pan/Documents/Freelance/work01_ws/build/robot_slam -- -j12 -l12
+Invoked command in '/home/pan/Documents/Freelance/work01_ws/build/robot_slam' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/pan/Documents/Freelance/work01_ws/build/robot_slam -- -j12 -l12
+Invoking command in '/home/pan/Documents/Freelance/work01_ws/build/robot_slam': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/pan/Documents/Freelance/work01_ws/build/robot_slam
+Invoked command in '/home/pan/Documents/Freelance/work01_ws/build/robot_slam' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/pan/Documents/Freelance/work01_ws/build/robot_slam

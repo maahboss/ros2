@@ -1,0 +1,32 @@
+[0.025s] Invoking command in '/home/pan/Documents/Freelance/work01_ws/build/robot_slam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/pan/Documents/Freelance/work01_ws/build/robot_slam -- -j12 -l12
+[0.086s] Invoked command in '/home/pan/Documents/Freelance/work01_ws/build/robot_slam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/pan/Documents/Freelance/work01_ws/build/robot_slam -- -j12 -l12
+[0.144s] Invoking command in '/home/pan/Documents/Freelance/work01_ws/build/robot_slam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/pan/Documents/Freelance/work01_ws/build/robot_slam
+[0.155s] -- Install configuration: ""
+[0.155s] -- Execute custom install script
+[0.156s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/config/mapper.yaml
+[0.156s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/config/nav.yaml
+[0.156s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/config/nav2_params.yaml
+[0.156s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/launch/bringup_launch.py
+[0.156s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/launch/localization.launch.py
+[0.156s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/launch/map_server_launch.py
+[0.156s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/launch/navigation_launch.py
+[0.157s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/launch/online_async_launch.py
+[0.157s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/maps/map_1686328902.pgm
+[0.157s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/maps/map_1686328902.yaml
+[0.157s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/rviz/mapping.rviz
+[0.157s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/ament_index/resource_index/package_run_dependencies/robot_slam
+[0.157s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/ament_index/resource_index/parent_prefix_path/robot_slam
+[0.158s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/environment/ament_prefix_path.sh
+[0.158s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/environment/ament_prefix_path.dsv
+[0.158s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/environment/path.sh
+[0.158s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/environment/path.dsv
+[0.158s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/local_setup.bash
+[0.158s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/local_setup.sh
+[0.158s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/local_setup.zsh
+[0.158s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/local_setup.dsv
+[0.158s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/package.dsv
+[0.172s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/ament_index/resource_index/packages/robot_slam
+[0.172s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/cmake/robot_slamConfig.cmake
+[0.174s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/cmake/robot_slamConfig-version.cmake
+[0.175s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_slam/share/robot_slam/package.xml
+[0.203s] Invoked command in '/home/pan/Documents/Freelance/work01_ws/build/robot_slam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/pan/Documents/Freelance/work01_ws/build/robot_slam

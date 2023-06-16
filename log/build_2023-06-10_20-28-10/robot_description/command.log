@@ -1,0 +1,4 @@
+Invoking command in '/home/pan/Documents/Freelance/work01_ws/build/robot_description': /usr/bin/cmake --build /home/pan/Documents/Freelance/work01_ws/build/robot_description -- -j12 -l12
+Invoked command in '/home/pan/Documents/Freelance/work01_ws/build/robot_description' returned '0': /usr/bin/cmake --build /home/pan/Documents/Freelance/work01_ws/build/robot_description -- -j12 -l12
+Invoking command in '/home/pan/Documents/Freelance/work01_ws/build/robot_description': /usr/bin/cmake --install /home/pan/Documents/Freelance/work01_ws/build/robot_description
+Invoked command in '/home/pan/Documents/Freelance/work01_ws/build/robot_description' returned '0': /usr/bin/cmake --install /home/pan/Documents/Freelance/work01_ws/build/robot_description

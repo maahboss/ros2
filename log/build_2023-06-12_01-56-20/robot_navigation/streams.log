@@ -1,0 +1,43 @@
+[0.059s] Invoking command in '/home/pan/Documents/Freelance/work01_ws/build/robot_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/pan/Documents/Freelance/work01_ws/build/robot_navigation -- -j12 -l12
+[0.209s] Invoked command in '/home/pan/Documents/Freelance/work01_ws/build/robot_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/pan/Documents/Freelance/work01_ws/build/robot_navigation -- -j12 -l12
+[0.310s] Invoking command in '/home/pan/Documents/Freelance/work01_ws/build/robot_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/pan/Documents/Freelance/work01_ws/build/robot_navigation
+[0.337s] -- Install configuration: ""
+[0.340s] -- Execute custom install script
+[0.344s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/config/nav.yaml
+[0.345s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/launch/localization_launch.py
+[0.345s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/launch/navigation_launch.py
+[0.345s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map.data
+[0.366s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map.pgm
+[0.400s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map.posegraph
+[0.429s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map.yaml
+[0.447s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686328902.pgm
+[0.449s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686328902.yaml
+[0.454s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506636.pgm
+[0.491s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506636.yaml
+[0.537s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506637.pgm
+[0.564s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506637.yaml
+[0.597s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506639.pgm
+[0.623s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506639.yaml
+[0.658s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506640.pgm
+[0.686s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506640.yaml
+[0.724s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506645.pgm
+[0.754s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506645.yaml
+[0.784s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506647.pgm
+[0.823s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506647.yaml
+[0.856s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/params/nav2_params.yaml
+[0.856s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/ament_index/resource_index/package_run_dependencies/robot_navigation
+[0.856s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/ament_index/resource_index/parent_prefix_path/robot_navigation
+[0.857s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/environment/ament_prefix_path.sh
+[0.857s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/environment/ament_prefix_path.dsv
+[0.857s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/environment/path.sh
+[0.857s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/environment/path.dsv
+[0.857s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/local_setup.bash
+[0.858s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/local_setup.sh
+[0.859s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/local_setup.zsh
+[0.860s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/local_setup.dsv
+[0.860s] -- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/package.dsv
+[0.888s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/ament_index/resource_index/packages/robot_navigation
+[0.893s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/cmake/robot_navigationConfig.cmake
+[0.898s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/cmake/robot_navigationConfig-version.cmake
+[0.898s] -- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/package.xml
+[0.906s] Invoked command in '/home/pan/Documents/Freelance/work01_ws/build/robot_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/pan/Documents/Freelance/work01_ws/build/robot_navigation

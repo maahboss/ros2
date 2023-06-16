@@ -1,0 +1,39 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/config/nav.yaml
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/launch/localization_launch.py
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/launch/navigation_launch.py
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map.data
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map.pgm
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map.posegraph
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map.yaml
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686328902.pgm
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686328902.yaml
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506636.pgm
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506636.yaml
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506637.pgm
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506637.yaml
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506639.pgm
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506639.yaml
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506640.pgm
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506640.yaml
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506645.pgm
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506645.yaml
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506647.pgm
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/maps/map_1686506647.yaml
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/params/nav2_params.yaml
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/ament_index/resource_index/package_run_dependencies/robot_navigation
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/ament_index/resource_index/parent_prefix_path/robot_navigation
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/environment/path.sh
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/environment/path.dsv
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/local_setup.bash
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/local_setup.sh
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/local_setup.zsh
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/local_setup.dsv
+-- Symlinking: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/package.dsv
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/ament_index/resource_index/packages/robot_navigation
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/cmake/robot_navigationConfig.cmake
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/cmake/robot_navigationConfig-version.cmake
+-- Up-to-date symlink: /home/pan/Documents/Freelance/work01_ws/install/robot_navigation/share/robot_navigation/package.xml
